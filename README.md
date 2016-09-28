@@ -1,2 +1,2 @@
 # hello-world
-Learning git
+I am learning git hub for web script programming
